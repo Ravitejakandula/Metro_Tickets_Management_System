@@ -33,7 +33,7 @@ The **Metro Tickets Management System** is an intuitive web application designed
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Ravitejakandula/Metro_Tickets_Management_system.git
+   git clone https://github.com/Ravitejakandula/Metro_Tickets_Management_System.git
 
 
 2. **Navigate to the Project Directory**
